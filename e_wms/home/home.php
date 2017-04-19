@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>e_wms</title>
+	<title>e-wms</title>
 </head>
 <body>
 welcome to home page
